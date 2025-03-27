@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rothtech.bikur_cholim",
+    "sha256_cert_fingerprints":
+    ["9B:5E:73:57:32:09:9E:10:A3:15:AB:28:5D:54:D4:30:AE:91:DB:A4:23:58:4A:65:E9:D8:22:23:C1:99:30:04"]
+  }
+}]
