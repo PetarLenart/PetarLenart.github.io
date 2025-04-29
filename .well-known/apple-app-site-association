@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "99GDVS8D2W.com.rothtech.bikurCholim"
+          "99GDVS8D2W.com.bikurcholim.app"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-	"99GDVS8D2W.com.rothtech.bikurCholim"
+	"99GDVS8D2W.com.bikurcholim.app"
     ]
   }
 }
